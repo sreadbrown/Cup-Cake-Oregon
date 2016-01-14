@@ -7,7 +7,7 @@
   color:#27408b;
   font-variant: small-caps;
   font-weight: bolder;
-  font-size: 30px;
+  font-size: 20px;
   text-decoration: underline;
 }
 .Menu {
@@ -15,4 +15,42 @@
 }
 body {
   background-color: #ffe5ff;
+}
+img {
+  align-items: center;
+}
+h2  {
+  font-family: sans-serif;
+  text-align: center;
+}
+h1  {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+p  {
+  font-family: sans-serif;
+  text-align: center;
+}
+h2 {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+h3 {
+  font-family: sans-serif;
+  text-align: center;
+}
+.franz {
+  align-items: center;
+  height: auto;
+  width: auto;
+  max-width: 500px;
+  max-height: 500px;
+
+}
+img.franz{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
