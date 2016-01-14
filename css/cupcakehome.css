@@ -1,1 +1,18 @@
 
+.flashy {
+  color: red;
+  font-style: italic
+}
+.best {
+  color:#27408b;
+  font-variant: small-caps;
+  font-weight: bolder;
+  font-size: 30px;
+  text-decoration: underline;
+}
+.Menu {
+  text-align: center;
+}
+body {
+  background-color: #ffe5ff;
+}
